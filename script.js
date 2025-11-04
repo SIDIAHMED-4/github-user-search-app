@@ -7,8 +7,8 @@
       * if not, show error message
 */
 
-import { searchInput, buttonElement, cardsElement, usersInputElement } from "./scripts/elements";
-import performSearch from "./scripts/performSearch";
+import { searchInput, buttonElement, cardsElement, usersInputElement } from "./scripts/elements.js";
+import performSearch from "./scripts/performSearch.js";
 
 buttonElement?.addEventListener("click", (e) => {
   e.preventDefault();

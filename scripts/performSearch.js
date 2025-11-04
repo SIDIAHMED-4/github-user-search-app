@@ -1,7 +1,7 @@
-import getMessage from "./getMessage";
-import setLoadingState from "./setLoadingState";
-import setMessage from "./setMessage";
-import setSearchResult from "./setSearchResults";
+import getMessage from "./getMessage.js";
+import setLoadingState from "./setLoadingState.js";
+import setMessage from "./setMessage.js";
+import setSearchResult from "./setSearchResults.js";
 
 const USERS_API = "https://api.github.com/search/users?q=";
 

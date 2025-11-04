@@ -1,5 +1,5 @@
-import { loaderElement } from "./elements";
-import setSearchResult from "./setSearchResults";
+import { loaderElement } from "./elements.js";
+import setSearchResult from "./setSearchResults.js";
 
 export default function (loadingState) {
   loaderElement.classList.toggle("hidden", !loadingState);
