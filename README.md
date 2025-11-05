@@ -5,6 +5,17 @@ It allows users to enter a GitHub username and view public information such as r
 
 ---
 
+## 📸 Screenshots
+
+![App Screenshot 1](Github-User-Search-App.png) 
+
+---
+
+## 🌐 Live Demo
+
+🔗 [Click here](https://github-user-search-app-tau-coral.vercel.app/)
+---
+
 ## 🚀 Features
 
 - 🔍 Search for any GitHub user or organizations easily  
@@ -22,14 +33,7 @@ It allows users to enter a GitHub username and view public information such as r
 3. Click the **Search** button 🔎  
 
 
----
-
-## 📸 Screenshots
-
-![App Screenshot 1](Github-User-Search-App.png)  
-
-
----
+--- 
 
 ## 🧠 Technologies Used
 
@@ -37,8 +41,6 @@ It allows users to enter a GitHub username and view public information such as r
 - **SCSS** – clean, maintainable, and responsive styling  
 - **JavaScript (Vanilla JS)** – logic and interaction with GitHub API  
 - **GitHub API** – fetches real-time user data  
-
----
 
 
 ---
@@ -50,12 +52,6 @@ It allows users to enter a GitHub username and view public information such as r
 - Managed **error handling** for users not found on GitHub  
 - Practiced **DOM manipulation** to dynamically display user cards  
 - Improved skills in writing **clean, maintainable code** for front-end projects  
-
----
-
-## 🌐 Live Demo
-
-🔗 [Click here](https://github-user-search-app-tau-coral.vercel.app/)
 
 ---
 
